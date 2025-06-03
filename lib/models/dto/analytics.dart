@@ -1,4 +1,4 @@
-import 'package:yata/data/models/bases/base.dart';
+import 'package:yata/models/bases/base.dart';
 
 class DailyStatsResult extends CoreBaseModel {
   /// 日次統計結果

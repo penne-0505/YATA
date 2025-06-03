@@ -1,4 +1,4 @@
-import 'package:yata/data/models/bases/base.dart';
+import 'package:yata/models/bases/base.dart';
 
 class DailySummary extends CoreBaseModel {
   /// 日別集計

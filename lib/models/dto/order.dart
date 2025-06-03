@@ -1,6 +1,6 @@
-import 'package:yata/data/models/bases/base.dart';
-import 'package:yata/core/constants/status.dart';
-import 'package:yata/core/constants/options.dart';
+import 'package:yata/models/bases/base.dart';
+import 'package:yata/utils/constants/option_enums.dart';
+import 'package:yata/utils/constants/state_enums.dart';
 
 
 class CartItemRequest extends CoreBaseModel {

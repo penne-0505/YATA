@@ -1,4 +1,4 @@
-import 'package:yata/data/models/bases/base.dart';
+import 'package:yata/models/bases/base.dart';
 
 class MenuAvailabilityInfo extends CoreBaseModel {
   /// メニュー在庫可否情報

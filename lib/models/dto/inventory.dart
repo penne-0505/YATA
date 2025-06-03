@@ -1,7 +1,7 @@
 import 'package:decimal/decimal.dart';
-import 'package:yata/core/constants/options.dart';
-import 'package:yata/data/models/bases/base.dart';
-import 'package:yata/data/models/domains/inventory.dart';
+import 'package:yata/utils/constants/option_enums.dart';
+import 'package:yata/models/bases/base.dart';
+import 'package:yata/models/domains/inventory.dart';
 
 class MaterialStockInfo extends CoreBaseModel {
   /// 材料在庫情報（在庫レベル付き）

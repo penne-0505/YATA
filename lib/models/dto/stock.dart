@@ -1,5 +1,5 @@
 import 'package:decimal/decimal.dart';
-import 'package:yata/data/models/bases/base.dart';
+import 'package:yata/models/bases/base.dart';
 
 class StockUpdateRequest extends CoreBaseModel {
   /// 在庫更新リクエスト
