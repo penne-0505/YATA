@@ -1,4 +1,4 @@
-# YATA (Yet Another Table Assistant)
+# YATA
 
 レストラン在庫管理システム - Rin Stock Manager の Dart/Flutter 移植版  
 効率的な在庫追跡、注文管理、分析機能を提供するクロスプラットフォームアプリケーション
