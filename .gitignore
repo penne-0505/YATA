@@ -46,4 +46,3 @@ app.*.map.json
 
 # temp
 __temp/
-_py_old_docs/
