@@ -1,5 +1,5 @@
 import 'package:decimal/decimal.dart';
-import 'package:yata/utils/constants/option_enums.dart';
+import 'package:yata/core/constants/enums/stock_enums.dart';
 import 'package:yata/models/bases/base.dart';
 
 class StockTransaction extends CoreBaseModel {
