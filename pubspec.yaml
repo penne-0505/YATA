@@ -11,6 +11,10 @@ dependencies:
     sdk: flutter
   uuid: ^4.5.1
   decimal: ^3.2.1
+  supabase_flutter: ^2.9.0
+  flutter_dotenv: ^5.2.1
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.5.3
 
 dev_dependencies:
   flutter_test:
@@ -19,3 +23,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - .env
